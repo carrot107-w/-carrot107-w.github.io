@@ -1,0 +1,8 @@
+---
+layout: minimal
+permalink: /encrypted_hidden/
+draft: true
+---
+
+{% include_relative testlog-protected.html %}
+ {% include_relative loghtml/본문전체.html %} 
