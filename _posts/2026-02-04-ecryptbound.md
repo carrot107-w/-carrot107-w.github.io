@@ -7,4 +7,4 @@ permalink: /encrypted_open/
 
 {% include_relative testlog-protected.html %}
 
- {% include_relative loghtml/본문전체.html %} 
+ {% include_relative loghtml/cryptbound.html %} 
